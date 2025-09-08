@@ -1,0 +1,1 @@
+select * from catalogforlearning.default.emp_data_for_data_bricks_free;
